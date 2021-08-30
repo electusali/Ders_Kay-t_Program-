@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\bin\Ders.dll.config
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\bin\Ders.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\bin\Ders.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\obj\Debug\Ders.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\obj\Debug\Ders.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\obj\Debug\Ders.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders\obj\Debug\Ders.csprojAssemblyReference.cache

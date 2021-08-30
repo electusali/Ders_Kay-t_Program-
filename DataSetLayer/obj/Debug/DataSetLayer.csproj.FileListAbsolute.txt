@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\bin\Debug\DataSetLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\bin\Debug\DataSetLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\bin\Debug\EntityLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\obj\Debug\DataSetLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\obj\Debug\DataSetLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\obj\Debug\DataSetLayer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\obj\Debug\DataSetLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\DataSetLayer\obj\Debug\DataSetLayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\AdminPanel.dll.config
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\AdminPanel.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\AdminPanel.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\obj\Debug\AdminPanel.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\BusinessLogicLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\DataSetLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\EntityLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\BusinessLogicLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\DataSetLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\bin\EntityLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete

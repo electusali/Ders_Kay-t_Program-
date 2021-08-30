@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\bin\Ders_Kayıt_Programı.dll.config
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\bin\Ders_Kayıt_Programı.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\bin\Ders_Kayıt_Programı.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\obj\Debug\Ders_Kayıt_Programı.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\obj\Debug\Ders_Kayıt_Programı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\obj\Debug\Ders_Kayıt_Programı.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\Ders_Kayıt_Programı\obj\Debug\Ders_Kayıt_Programı.pdb

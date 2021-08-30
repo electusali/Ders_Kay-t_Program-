@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\DataSetLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\DataSetLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\source\repos\Ders_Kayıt_Programı\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

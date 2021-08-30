@@ -1,0 +1,4 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanıcı.master.cs" Inherits="Ders_Kayıt_Programı.Kullanıcı" %>
+
+
+
